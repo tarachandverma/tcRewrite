@@ -1,0 +1,83 @@
+{
+  "segments": [
+    {
+      "id": "ab",
+      "path": "/etc/segments/region/ab",
+      "title": "Alberta",
+      "rule": "\"cookie.region\"==\"AB\""
+    },
+    {
+      "id": "bc",
+      "path": "/etc/segments/region/bc",
+      "title": "British Columbia",
+      "rule": "\"cookie.region\"==\"BC\""
+    },
+    {
+      "id": "ns",
+      "path": "/etc/segments/region/ns",
+      "title": "Nova Scotia",
+      "rule": "\"cookie.region\"==\"NS\""
+    },
+    {
+      "id": "nt",
+      "path": "/etc/segments/region/nt",
+      "title": "Northwest Territories",
+      "rule": "\"cookie.region\"==\"NT\""
+    },
+    {
+      "id": "nu",
+      "path": "/etc/segments/region/nu",
+      "title": "Nunavut",
+      "rule": "\"cookie.region\"==\"NU\""
+    },
+    {
+      "id": "qc",
+      "path": "/etc/segments/region/qc",
+      "title": "Quebec",
+      "rule": "\"cookie.region\"==\"QC\""
+    },
+    {
+      "id": "nb",
+      "path": "/etc/segments/region/nb",
+      "title": "New Brunswick",
+      "rule": "\"cookie.region\"==\"NB\""
+    },
+    {
+      "id": "mb",
+      "path": "/etc/segments/region/mb",
+      "title": "Manitoba",
+      "rule": "\"cookie.region\"==\"MB\""
+    },
+    {
+      "id": "pe",
+      "path": "/etc/segments/region/pe",
+      "title": "Prince Edward Island",
+      "rule": "\"cookie.region\"==\"PE\""
+    },
+    {
+      "id": "sk",
+      "path": "/etc/segments/region/sk",
+      "title": "Saskatchewan",
+      "rule": "\"cookie.region\"==\"SK\""
+    },
+    {
+      "id": "yt",
+      "path": "/etc/segments/region/yt",
+      "title": "Yukon",
+      "rule": "\"cookie.region\"==\"YT\""
+    },
+    {
+      "id": "nl",
+      "path": "/etc/segments/region/nl",
+      "title": "Newfoundland and Labrador",
+      "rule": "\"cookie.region\"==\"NL\""
+    },
+    {
+      "id": "on",
+      "path": "/etc/segments/region/on",
+      "title": "Ontario",
+      "rule": "\"cookie.region\"==\"ON\""
+    }
+  ],
+  "success": true
+}
