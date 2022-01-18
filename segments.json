@@ -76,7 +76,7 @@
       "id": "on",
       "path": "/etc/segments/region/on",
       "title": "Ontario",
-      "rule": "\"cookie.region\"==\"ON\""
+      "rule": "\"cookie.region\"==\"ONN\""
     }
   ],
   "success": true
