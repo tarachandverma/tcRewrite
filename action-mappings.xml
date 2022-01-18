@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<action-mappings>
-     <segmentFile>segments.json</segmentFile>
-     <webpageFile>webpages.json</webpageFile>
-</action-mappings>
