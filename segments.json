@@ -10,7 +10,7 @@
       "id": "bc",
       "path": "/etc/segments/region/bc",
       "title": "British Columbia",
-      "rule": "\"cookie.region\"==\"BC\""
+      "rule": "\"cookie.region\"==\"AB\""
     },
     {
       "id": "ns",
